@@ -10,7 +10,7 @@
         <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">KELAS : XII RPL<br>
             ALAMAT : SALUYU SELATAN<br>
             SEKOLAH : SMK ASSALAAM<br>
-            JENIS KELAMIN : LAKI LAKI
+            JENIS KELAMIN : LAKI LAKi
 
         </p>
     </div>
